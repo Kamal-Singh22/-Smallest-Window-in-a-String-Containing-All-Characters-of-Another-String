@@ -11,4 +11,4 @@ When all characters from T are found, start contracting left.
 Update the minimum substring if a shorter one is found.
 Time Complexity:
 
-O(N): Since each character is processed at most twice (once while expanding, once while contracting).
+O(N): Since each character is processed at most twice (once while expanding, once while contracting)...
